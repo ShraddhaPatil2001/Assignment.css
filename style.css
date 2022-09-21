@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color:black ;
+    color: aqua;
+    font-size: 20px;
+    margin: 20px;
+    height: 50px;
+    }
+
+    nav ul{
+        padding-top: 10px;
+    }
+     nav ul li {
+        display: inline;
+     }
+    .main{
+        margin-left: 20px;
+        background-color: yellow;
+        width: 50vh;
+        height: 80vh;
+    }
+    .main h2{
+        margin-left: 20px;
+        padding:20px;
+    
+    }
+   ul li{
+    margin-left: 50px;
+    font-size: 18px;
+   }
+
+   
+   .main1{
+    float: right;
+    background-color: yellow;
+    margin-right: 20px;
+    width: 50vh;
+    height: 80vh;
+   }
+
+   .main1 h3{
+    padding-top: 20px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+ .main1 ul li{
+    margin-top: 20px;
+ }
+ p{
+    background-color:black ;
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    word-spacing: 2px;
+ }
